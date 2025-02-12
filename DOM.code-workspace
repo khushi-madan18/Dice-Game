@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "DOM",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DOM"
+	}
+}
